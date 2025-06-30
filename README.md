@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @clemsadand. 
-- 👀 With a background in Pure mathematics, I’m interested in Numerical Analysis, Natural Language Processing and Reinforcement Learning.
-- 🌱 I completed a master in Artificial Intelligence at [AIMS](aims.ac.za) and a master in Numerical Analysis at [IMSP](imsp-benin.com). 
-- 💞️ I’m looking for job and collaborative projects about application of AI in real-world challenges. 
-- 📫 How to reach me : [Email](clementa@aims.ac.za), [LinkedIn](https://www.linkedin.com/in/clemsadand)
-- 😄 Pronouns: klai-man
-<!--- ⚡ Fun fact: ...--->
+### 👋 Hi, I’m Clément Adandé (@clemsadand)
 
-<!---
-clemsadand/clemsadand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I have a strong background in Pure Mathematics, with a Master's in Numerical Analysis from [IMSP, Benin](https://imsp-benin.com) and a Master's in Artificial Intelligence from [AIMS South Africa](https://aims.ac.za).
+- 🤖 My research interests include Numerical Analysis, Natural Language Processing, and Reinforcement Learning.
+- 💼 I offer services in **Mathematical Modeling**, **Data Science**, **Machine Learning**, and **Scientific Computing**. Learn more on my website: [clemsadand.github.io](https://clemsadand.github.io)
+- 🔍 I’m also open to job opportunities and collaborative projects that apply AI and mathematics to real-world challenges.
+- 📫 Reach me via [email](mailto:clementa@aims.ac.za) or connect on [LinkedIn](https://www.linkedin.com/in/clemsadand)
